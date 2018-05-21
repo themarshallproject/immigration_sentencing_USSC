@@ -3,13 +3,13 @@
 
 A Marshall Project analysis of 17 years of federal prison sentences shows that violations of immigration law already constitute the largest single category of offenses—even more than drug trafficking.
 
-Link: [Sending Even More Immigrants to Prison](https://www.themarshallproject.org/2018/05/20/sending-even-more-immigrants-to-prison)
+Link: [Sending Even More Immigrants to Prison](https://www.themarshallproject.org/2018/05/20/sending-even-more-immigrants-to-prison), published May 21, 2017.
 
 ### Data Sources ###
 
-Each year, the U.S. Sentencing Commission publishes federal sentencing data. In the Appendices section of the [Sourcebook](https://www.ussc.gov/research/sourcebook-2017), there's a breakdown of sentences by U.S. federal district. These PDFs are the basis of the analysis.
+Each year, the U.S. Sentencing Commission publishes federal sentencing data. In the Appendices section of the [Sourcebook](https://www.ussc.gov/research/sourcebook-2017), there's a breakdown of sentences by U.S. federal district. [These PDFs](https://www.ussc.gov/research/sourcebook/archive) are the basis of the analysis.
 
-We scraped and parsed parts of the data. What is saved here is data we gathered only on immigration, by these specific sentence buckets:
+We scraped and parsed parts of the data. What is saved as pctimmigchart.csv is data we gathered only on immigration, by these specific sentence buckets:
 
 - Up to 12 Months
 - 13-24 Months
@@ -29,8 +29,7 @@ We scraped and parsed parts of the data. What is saved here is data we gathered 
 
 ### Data Notes ###
 
-This data does not include all conviction, since not everyone get a prison sentence. Some districts have also not kept track of all the sentencing for their convictions, which is why the adding up of all the sentence length buckets is not always the same as the Total Receiving population, if you're looking at the original PDFs
+This data does not include all convictions, since not everyone gets a prison sentence. Some districts have also not kept track of all the sentencing for their convictions. This means that when adding up of all the sentence length buckets they are not always the same as the Total Receiving population. 
 
-United States v. Booker, 2005 and Blakely v. Washington, 2004
-For these years, USSC published two sets of data, to capture sentencing differences pre/post the cases.
+In the years 2004 and 2005, USSC published two sets of data. They account for mid-year changes due to Blakely v. Washington in 2004 and United States v. Booker changes in 2005.
 
