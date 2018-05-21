@@ -1,9 +1,8 @@
-README.md
-
 ### Story ###
 
 
 A Marshall Project analysis of 17 years of federal prison sentences shows that violations of immigration law already constitute the largest single category of offenses—even more than drug trafficking.
+
 Link: [Sending Even More Immigrants to Prison](https://www.themarshallproject.org/2018/05/20/sending-even-more-immigrants-to-prison)
 
 ### Data Sources ###
